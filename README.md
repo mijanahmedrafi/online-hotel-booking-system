@@ -29,5 +29,6 @@ This is a Java-based desktop application that allows users to register, login, s
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/online-hotel-booking-system.git
-   cd online-hotel-booking-system
+   git clone https://github.com/mijanahmedrafi/online-hotel-booking-system.git
+cd online-hotel-booking-system
+
